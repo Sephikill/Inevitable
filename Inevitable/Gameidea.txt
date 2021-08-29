@@ -1,0 +1,27 @@
+Main Game
+Doodle Junp and Mario Platformer?
+Twist 
+Kill stuff with cool swords moves
+
+todo
+add stuff to 'Camera_Move.py Camera_move class'
+add hp bar to both enimes and player
+
+add cool special atks like spin and horrizontal move
+
+maybe add death animation?
+
+add boss
+
+add flying monster that ignores gravity or has flying ability
+
+add wizard which shoot fireballs. the fireballs need to have seperate group or layered update
+
+add randomly generated tilemaps
+
+add travels between tilemaps
+
+add loading screen
+
+add special and normal attack cooldown
+
